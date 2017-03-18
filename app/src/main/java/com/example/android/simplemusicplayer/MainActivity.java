@@ -28,5 +28,8 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void test(){}
+    private void test(){
+        int i=0;
+        int ii = i+1;
+    }
 }
